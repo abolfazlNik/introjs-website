@@ -1,5 +1,3 @@
-# Intro.js website
-
 Intro.js website, documentation and examples
 
 ## Installation
